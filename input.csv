@@ -1,0 +1,18 @@
+"id","assessment_id","record","first_name","last_name","industry","company","location","linkedin_public_profile_url","title","status","user_id"
+5475,20,26,"Anthony","Boquet",NULL,"The American College",NULL,NULL,"AVP, Sales/Marketing",5,45
+5493,20,44,"Todd","Oster",NULL,"Amica Life Insurance Company",NULL,NULL,"Life Officer, Structured Settlements Department",5,6
+5506,20,57,"Damian","Salvi",NULL,"Baltimore Life",NULL,NULL,"Vice President, Sales and Distribution",5,68
+5568,20,119,"Les","Herr",NULL,"Empire Life",NULL,NULL,"President and Chief Executive Officer",5,68
+5624,20,175,"Jean-Francois","Cloutier",NULL,"Industrial Alliance",NULL,NULL,"Senior Director, IT",5,6
+5644,20,195,"Thomas","Smith Jr.",NULL,"Knights of Columbus",NULL,NULL,"Exec VP, Chief Insurance Officer",5,13
+5689,20,240,"Matthew","Shejen",NULL,"MetLife",NULL,NULL,"AVP Strategic Services, US Sponsored Direct & LatAm Finance",5,13
+5704,20,255,"Philip","Myers",NULL,"The Myers Company, LLC",NULL,NULL,"President/CEO",5,116
+5713,20,264,"Peter","Golato",NULL,"Nationwide Financial",NULL,NULL,"Senior Vice President, Nationwide Financial Network",5,558
+5720,20,271,"Cherri","Beberman",NULL,"New York Life",NULL,NULL,"Senior Associate Marketing Communications",5,116
+5768,20,319,"William","Stevens",NULL,"Penn Mutual",NULL,NULL,"Vice President, Career Distribution",5,45
+5774,20,325,"Helen","Jones",NULL,"Primerica",NULL,NULL,"Project Director",5,45
+5792,20,343,"Brian","Perra",NULL,"Prudential",NULL,NULL,"Director, Customer Retention",5,354
+5803,20,354,"Tom","Wartenberg",NULL,"ReMark USA",NULL,NULL,"President & CEO ReMark USA",5,354
+5854,20,405,"Patrick","Culligan",NULL,"State Farm",NULL,NULL,"AVP of Marketing Sciences and Technology",5,556
+5857,20,408,"Richard","Paul",NULL,"State Farm",NULL,NULL,"Vice President",5,45
+5879,20,430,"Steven","Cates",NULL,"Texas Life Insurance Company",NULL,NULL,"President and Chief Executive Officer",5,556
